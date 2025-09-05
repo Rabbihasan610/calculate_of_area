@@ -1,11 +1,7 @@
 # 📐 Calculate of Area
 
 This repository demonstrates how to calculate the **area of geometric shapes** using different programming languages:  
-- C  
-- C++  
-- C#  
-- JavaScript  
-- PHP  
+- C 
 
 It includes implementations for the following shapes:  
 - Circle  
